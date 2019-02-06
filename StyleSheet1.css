@@ -1,0 +1,70 @@
+﻿<style >
+body {
+    background-image: url('D:/111.png');
+    background-size: 100%;
+}
+
+aside {
+    background: #cac0b6;
+    padding: 10px;
+    width: 60px;
+    height: 52vw;
+    float: left;
+    writing-mode: vertical-lr;
+    text-align: right;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+footer {
+    float: right;
+}
+
+header {
+    margin-left: 120px;
+}
+
+h1 {
+    margin-top: 340px;
+    font-size: 30px;
+    color: red;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    border: none;
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 550px;
+    margin-bottom: 50px;
+}
+
+.heh {
+    border: none;
+    background-color: #cac0b6;
+    color: white;
+    border-bottom-left-radius: 100%;
+    border-top-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 1030px;
+}
+
+footer {
+    margin-right: 100px;
+}
+
+</style >
